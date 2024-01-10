@@ -1,5 +1,384 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "16zV3Pzcl-k",
+            "name": "Sense Wiseness [16zV3Pzcl-k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Sense Wiseness [16zV3Pzcl-k].mp4",
+            "size": 39.538295999999995,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Sense Wiseness [16zV3Pzcl-k].mp4"
+        },
+        {
+            "id": "NIgQCgMbRDE",
+            "name": "Contemplation (Remastered) [NIgQCgMbRDE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Contemplation (Remastered) [NIgQCgMbRDE].mp4",
+            "size": 12.83619,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Contemplation (Remastered) [NIgQCgMbRDE].mp4"
+        },
+        {
+            "id": "lQ-8XTB-7Yc",
+            "name": "Mi Desierto [lQ-8XTB-7Yc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Mi Desierto [lQ-8XTB-7Yc].mp4",
+            "size": 5.826798,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Mi Desierto [lQ-8XTB-7Yc].mp4"
+        },
+        {
+            "id": "pWzZ5VXg2DI",
+            "name": "Cabalgando [pWzZ5VXg2DI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Cabalgando [pWzZ5VXg2DI].mp4",
+            "size": 6.126719,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Cabalgando [pWzZ5VXg2DI].mp4"
+        },
+        {
+            "id": "b1P6e3QQ9qU",
+            "name": "It's A Long Way Down (Remastered) [b1P6e3QQ9qU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/It's A Long Way Down (Remastered) [b1P6e3QQ9qU].mp4",
+            "size": 12.828529,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/It's A Long Way Down (Remastered) [b1P6e3QQ9qU].mp4"
+        },
+        {
+            "id": "U6JTlzmPD7s",
+            "name": "La Pastora [U6JTlzmPD7s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/La Pastora [U6JTlzmPD7s].mp4",
+            "size": 6.6626959999999995,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/La Pastora [U6JTlzmPD7s].mp4"
+        },
+        {
+            "id": "lz2SrIBUZMg",
+            "name": "Don't Worry About My Mouth O (African Message) [lz2SrIBUZMg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Don't Worry About My Mouth O (African Message) [lz2SrIBUZMg].mp4",
+            "size": 28.591556999999998,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Don't Worry About My Mouth O (African Message) [lz2SrIBUZMg].mp4"
+        },
+        {
+            "id": "8wZB7AtwCpM",
+            "name": "Calcutta Blues [8wZB7AtwCpM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Calcutta Blues [8wZB7AtwCpM].mp4",
+            "size": 24.128328999999997,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Calcutta Blues [8wZB7AtwCpM].mp4"
+        },
+        {
+            "id": "1Z-RPwaKxGI",
+            "name": "Bu's Delight (Remastered 2003\u29f8Rudy Van Gelder Edition) [1Z-RPwaKxGI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Bu's Delight (Remastered 2003\u29f8Rudy Van Gelder Edition) [1Z-RPwaKxGI].mp4",
+            "size": 19.117879,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Bu's Delight (Remastered 2003\u29f8Rudy Van Gelder Edition) [1Z-RPwaKxGI].mp4"
+        },
+        {
+            "id": "SqI7KG1ERyQ",
+            "name": "Arabia (2005 Remaster) [SqI7KG1ERyQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Arabia (2005 Remaster) [SqI7KG1ERyQ].mp4",
+            "size": 18.570297999999998,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Arabia (2005 Remaster) [SqI7KG1ERyQ].mp4"
+        },
+        {
+            "id": "_8BpBLYyDKs",
+            "name": "Moon River (Remastered) [_8BpBLYyDKs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Moon River (Remastered) [_8BpBLYyDKs].mp4",
+            "size": 10.59609,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Moon River (Remastered) [_8BpBLYyDKs].mp4"
+        },
+        {
+            "id": "-eLYqyLa-6E",
+            "name": "The New Message (aka Little T) (Take 1) [-eLYqyLa-6E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/The New Message (aka Little T) (Take 1) [-eLYqyLa-6E].mp4",
+            "size": 13.020655,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/The New Message (aka Little T) (Take 1) [-eLYqyLa-6E].mp4"
+        },
+        {
+            "id": "igQKhTyC-AM",
+            "name": "A Man, A Horse, A Gun - Titles [igQKhTyC-AM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/A Man, A Horse, A Gun - Titles [igQKhTyC-AM].mp4",
+            "size": 6.403937,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/A Man, A Horse, A Gun - Titles [igQKhTyC-AM].mp4"
+        },
+        {
+            "id": "9UlNtLeFveY",
+            "name": "La Boa, Las Rosas Y Las Espinas [9UlNtLeFveY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/La Boa, Las Rosas Y Las Espinas [9UlNtLeFveY].mp4",
+            "size": 6.971731999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/La Boa, Las Rosas Y Las Espinas [9UlNtLeFveY].mp4"
+        },
+        {
+            "id": "1pOOnPH9qQ8",
+            "name": "Cubano Chant [1pOOnPH9qQ8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Cubano Chant [1pOOnPH9qQ8].mp4",
+            "size": 9.589101999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Cubano Chant [1pOOnPH9qQ8].mp4"
+        },
+        {
+            "id": "vT_oIjd-ZHA",
+            "name": "El Moco [vT_oIjd-ZHA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/El Moco [vT_oIjd-ZHA].mp4",
+            "size": 4.614018,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/El Moco [vT_oIjd-ZHA].mp4"
+        },
+        {
+            "id": "ibM12xOWwyY",
+            "name": "Bella Fugitiva [ibM12xOWwyY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Bella Fugitiva [ibM12xOWwyY].mp4",
+            "size": 5.6895869999999995,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Bella Fugitiva [ibM12xOWwyY].mp4"
+        },
+        {
+            "id": "41wYoHmU0I0",
+            "name": "Grande valse de concert [41wYoHmU0I0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Grande valse de concert [41wYoHmU0I0].mp4",
+            "size": 11.501737,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Grande valse de concert [41wYoHmU0I0].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Fleurette Africaine (African Flower) (Remastered) [6HFQy9_rY58] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Fleurette Africaine (African Flower) (Remastered) [6HFQy9_rY58] - copy (1).mp4",
+            "size": 9.654136,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Fleurette Africaine (African Flower) (Remastered) [6HFQy9_rY58] - copy (1).mp4"
+        },
+        {
+            "id": "fI0S6ioserI",
+            "name": "The Chess Players (Remastered 2005) [fI0S6ioserI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/The Chess Players (Remastered 2005) [fI0S6ioserI].mp4",
+            "size": 19.482184,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/The Chess Players (Remastered 2005) [fI0S6ioserI].mp4"
+        },
+        {
+            "id": "EjoFg28-BIA",
+            "name": "Just for Marty [EjoFg28-BIA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Just for Marty [EjoFg28-BIA].mp4",
+            "size": 8.707196999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Just for Marty [EjoFg28-BIA].mp4"
+        },
+        {
+            "id": "o9ruXbP1Wp8",
+            "name": "Calling Miss Khadija (Remastered) [o9ruXbP1Wp8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Calling Miss Khadija (Remastered) [o9ruXbP1Wp8].mp4",
+            "size": 21.977791999999997,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Calling Miss Khadija (Remastered) [o9ruXbP1Wp8].mp4"
+        },
+        {
+            "id": "0vq3qZwaXrw",
+            "name": "Entre Dos Aguas (Remastered 2014) [0vq3qZwaXrw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Entre Dos Aguas (Remastered 2014) [0vq3qZwaXrw].mp4",
+            "size": 7.7384759999999995,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Entre Dos Aguas (Remastered 2014) [0vq3qZwaXrw].mp4"
+        },
+        {
+            "id": "bhWpED59-i0",
+            "name": "The New Message (aka Little T) (Take 3) [bhWpED59-i0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/The New Message (aka Little T) (Take 3) [bhWpED59-i0].mp4",
+            "size": 8.327834,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/The New Message (aka Little T) (Take 3) [bhWpED59-i0].mp4"
+        },
+        {
+            "id": "S_8sW8dQqyg",
+            "name": "Mr. Jin (Remastered) [S_8sW8dQqyg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Mr. Jin (Remastered) [S_8sW8dQqyg].mp4",
+            "size": 21.035328999999997,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Mr. Jin (Remastered) [S_8sW8dQqyg].mp4"
+        },
+        {
+            "id": "_zfH9hu5E_U",
+            "name": "El Piojito [_zfH9hu5E_U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/El Piojito [_zfH9hu5E_U].mp4",
+            "size": 5.206852,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/El Piojito [_zfH9hu5E_U].mp4"
+        },
+        {
+            "id": "NXCvIM1xCtg",
+            "name": "Thank You [NXCvIM1xCtg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Thank You [NXCvIM1xCtg].mp4",
+            "size": 5.701098,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Thank You [NXCvIM1xCtg].mp4"
+        },
+        {
+            "id": "Ou6lwwQRK24",
+            "name": "Long Lost Lover [Ou6lwwQRK24].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Long Lost Lover [Ou6lwwQRK24].mp4",
+            "size": 16.460801999999997,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Long Lost Lover [Ou6lwwQRK24].mp4"
+        },
+        {
+            "id": "eih7gn35cM4",
+            "name": "Lester Left Town (Remastered 2005) [eih7gn35cM4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Lester Left Town (Remastered 2005) [eih7gn35cM4].mp4",
+            "size": 13.178830999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Lester Left Town (Remastered 2005) [eih7gn35cM4].mp4"
+        },
+        {
+            "id": "gE64hx9e4cE",
+            "name": "The Golden Horn [gE64hx9e4cE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/The Golden Horn [gE64hx9e4cE].mp4",
+            "size": 8.024458,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/The Golden Horn [gE64hx9e4cE].mp4"
+        },
+        {
+            "id": "Eduav3iD51w",
+            "name": "George Enescu - Rapsodia Rom\u00e2n\u0103 nr. 1 - Orchestra Metropolitan\u0103 Bucure\u0219ti - dirijor Daniel Jinga [Eduav3iD51w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/George Enescu - Rapsodia Rom\u00e2n\u0103 nr. 1 - Orchestra Metropolitan\u0103 Bucure\u0219ti - dirijor Daniel Jinga [Eduav3iD51w].mp4",
+            "size": 71.245898,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/George Enescu - Rapsodia Rom\u00e2n\u0103 nr. 1 - Orchestra Metropolitan\u0103 Bucure\u0219ti - dirijor Daniel Jinga [Eduav3iD51w].mp4"
+        },
+        {
+            "id": "P2EOzQUhagU",
+            "name": "Nomad [P2EOzQUhagU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Nomad [P2EOzQUhagU].mp4",
+            "size": 11.765018,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Nomad [P2EOzQUhagU].mp4"
+        },
+        {
+            "id": "kAIW1AXhAts",
+            "name": "Oscalypso [kAIW1AXhAts].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Oscalypso [kAIW1AXhAts].mp4",
+            "size": 21.004766,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Oscalypso [kAIW1AXhAts].mp4"
+        },
+        {
+            "id": "88av6Ch_BY4",
+            "name": "Stop [88av6Ch_BY4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Stop [88av6Ch_BY4].mp4",
+            "size": 14.873467,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Stop [88av6Ch_BY4].mp4"
+        },
+        {
+            "id": "Nq0tYlMz28w",
+            "name": "Marble Arch [Nq0tYlMz28w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Marble Arch [Nq0tYlMz28w].mp4",
+            "size": 11.139043,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Marble Arch [Nq0tYlMz28w].mp4"
+        },
+        {
+            "id": "fkv8RJUnDNE",
+            "name": "Diana Guaran\u00ec [fkv8RJUnDNE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Diana Guaran\u00ec [fkv8RJUnDNE].mp4",
+            "size": 15.137502999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Diana Guaran\u00ec [fkv8RJUnDNE].mp4"
+        },
+        {
+            "id": "jPWHrmn-mwI",
+            "name": "Piano Concerto in D Minor (1812) \uff1a III. Allegro molto vivace [jPWHrmn-mwI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Piano Concerto in D Minor (1812) \uff1a III. Allegro molto vivace [jPWHrmn-mwI].mp4",
+            "size": 19.067249999999998,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Piano Concerto in D Minor (1812) \uff1a III. Allegro molto vivace [jPWHrmn-mwI].mp4"
+        },
+        {
+            "id": "K5GyiNGtM9w",
+            "name": "Dee's Dilemma [K5GyiNGtM9w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Dee's Dilemma [K5GyiNGtM9w].mp4",
+            "size": 12.690216,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Dee's Dilemma [K5GyiNGtM9w].mp4"
+        },
+        {
+            "id": "_xuO9UO21F4",
+            "name": "Laura [_xuO9UO21F4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Laura [_xuO9UO21F4].mp4",
+            "size": 7.1029029999999995,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Laura [_xuO9UO21F4].mp4"
+        },
+        {
+            "id": "ZM5sh9N0JPU",
+            "name": "Cipriano Hern\u00e1ndez Mart\u00ednez [ZM5sh9N0JPU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Cipriano Hern\u00e1ndez Mart\u00ednez [ZM5sh9N0JPU].mp4",
+            "size": 16.497281,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Cipriano Hern\u00e1ndez Mart\u00ednez [ZM5sh9N0JPU].mp4"
+        },
+        {
+            "id": "o39ZUDevWZw",
+            "name": "Brandenburg Gate [o39ZUDevWZw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Brandenburg Gate [o39ZUDevWZw].mp4",
+            "size": 11.012165999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Brandenburg Gate [o39ZUDevWZw].mp4"
+        },
+        {
+            "id": "XjodVkaT24o",
+            "name": "Runaway (With My Love) [XjodVkaT24o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Runaway (With My Love) [XjodVkaT24o].mp4",
+            "size": 13.511904999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Runaway (With My Love) [XjodVkaT24o].mp4"
+        },
+        {
+            "id": "MR5BURt6C1c",
+            "name": "Politely (Remastered 2005) [MR5BURt6C1c].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Politely (Remastered 2005) [MR5BURt6C1c].mp4",
+            "size": 12.462798,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Politely (Remastered 2005) [MR5BURt6C1c].mp4"
+        },
+        {
+            "id": "_H9iBZFfDAA",
+            "name": "Sortie [_H9iBZFfDAA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Sortie [_H9iBZFfDAA].mp4",
+            "size": 24.529525,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Sortie [_H9iBZFfDAA].mp4"
+        },
+        {
+            "id": "6uH72B1UYds",
+            "name": "When Love Is New [6uH72B1UYds].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/When Love Is New [6uH72B1UYds].mp4",
+            "size": 17.978970999999998,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/When Love Is New [6uH72B1UYds].mp4"
+        },
+        {
+            "id": "HOJmT65gi8g",
+            "name": "SpandauBallet - 1983 \u29f8LP Album [HOJmT65gi8g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/SpandauBallet - 1983 \u29f8LP Album [HOJmT65gi8g].mp4",
+            "size": 75.341084,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/SpandauBallet - 1983 \u29f8LP Album [HOJmT65gi8g].mp4"
+        },
+        {
+            "id": "eihmosT41K4",
+            "name": "Shaky Jake (Remastered 2003\u29f8Rudy Van Gelder Edition) [eihmosT41K4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Shaky Jake (Remastered 2003\u29f8Rudy Van Gelder Edition) [eihmosT41K4].mp4",
+            "size": 13.555506999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Shaky Jake (Remastered 2003\u29f8Rudy Van Gelder Edition) [eihmosT41K4].mp4"
+        },
+        {
+            "id": "8CW6S4gRahY",
+            "name": "Schubert - Arpeggione Sonata D 821 \u29f8 Presentation + New Mastering (Ct. rec.\uff1a Rostropovich \u29f8 Britten) [8CW6S4gRahY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Schubert - Arpeggione Sonata D 821 \u29f8 Presentation + New Mastering (Ct. rec.\uff1a Rostropovich \u29f8 Britten) [8CW6S4gRahY].mp4",
+            "size": 42.224578,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Schubert - Arpeggione Sonata D 821 \u29f8 Presentation + New Mastering (Ct. rec.\uff1a Rostropovich \u29f8 Britten) [8CW6S4gRahY].mp4"
+        },
+        {
+            "id": "vIhy0c-fP3I",
+            "name": "It's Only A Paper Moon (Remastered 2005) [vIhy0c-fP3I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/It's Only A Paper Moon (Remastered 2005) [vIhy0c-fP3I].mp4",
+            "size": 13.557777999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/It's Only A Paper Moon (Remastered 2005) [vIhy0c-fP3I].mp4"
+        },
+        {
+            "id": "WZYZiDYnDU4",
+            "name": "Nica's Tempo [WZYZiDYnDU4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Nica's Tempo [WZYZiDYnDU4].mp4",
+            "size": 12.443679,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Nica's Tempo [WZYZiDYnDU4].mp4"
+        },
+        {
+            "id": "ytWgNUvAlmU",
+            "name": "Lil 'T (aka the Third) [ytWgNUvAlmU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Lil 'T (aka the Third) [ytWgNUvAlmU].mp4",
+            "size": 12.293348,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Lil 'T (aka the Third) [ytWgNUvAlmU].mp4"
+        },
+        {
+            "id": "2lVsPN7vGIs",
+            "name": "This Is For Albert [2lVsPN7vGIs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/This Is For Albert [2lVsPN7vGIs].mp4",
+            "size": 20.11929,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/This Is For Albert [2lVsPN7vGIs].mp4"
+        },
+        {
+            "id": "GCAfnR6LFtw",
+            "name": "Si Pudiera [GCAfnR6LFtw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/Si Pudiera [GCAfnR6LFtw].mp4",
+            "size": 15.537125999999999,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/Si Pudiera [GCAfnR6LFtw].mp4"
+        },
+        {
+            "id": "9PsWb32zPNg",
+            "name": "The Egyptian (Remastered) [9PsWb32zPNg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/d5/videos/The Egyptian (Remastered) [9PsWb32zPNg].mp4",
+            "size": 30.936246999999998,
+            "url": "https://github.com/circuitalmynds/music_d5/raw/main/videos/The Egyptian (Remastered) [9PsWb32zPNg].mp4"
+        }
+    ],
+    "total_size": 904.1364849999999
 }
